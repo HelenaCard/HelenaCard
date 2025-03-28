@@ -34,6 +34,10 @@ Principais:
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helenas.cardoso/)
 
+# [Veja meu perfil DIO](https://www.dio.me/users/helenasoarescardoso)
+
+![DIO PERFIL](https://github.com/user-attachments/assets/5a846abe-40b6-436b-9c3b-ed7e7138d375)
+
 
 # Linguagens de Marcação e Estilo
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
