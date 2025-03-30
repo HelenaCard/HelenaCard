@@ -48,3 +48,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenaCard&show_icons=true&theme=dracula&hide_border=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenaCard&layout=compact&theme=dracula&hide_border=true">
 </div>
+
+
+---
+
+## 🌐 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helena-cardoso-9b2b9b200/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helenas.cardoso/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helenascardoso9@gmail.com)
+[![Digital Innovation One](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4QgJDxMZqgHNKAAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAJUlEQVQ4y2NgGAWjYBSMAloB4/8RDP7//8/AyMj4HwpgYmJiGKkBAJ1ZBbX4S3i5AAAAAElFTkSuQmCC&color=8A2BE2)](https://www.dio.me/users/helenasoarescardoso)
+
+---
+
+## 🎨 Curiosidades
+- 🗣️ **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (intermediário), Japonês (básico).
+- 🎵 **Hobbies**: Aprender sobre culturas, música e engenharia criativa.
