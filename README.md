@@ -39,7 +39,7 @@
 |---------|-----------|-------------|
 | **[Sistema de irrigação - monitoramento](https://github.com/HelenaCard/Iot-para-sistema-de-irriga-o---monitoramento.git)** | Projeto integrado com IoT | [![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/topics/iot) |
 | **[Material realizado com IA](https://github.com/HelenaCard/lab-natty-or-not)** | Ebook: A Jornada da IA: Noções para o novo mercado de trabalho | [![AI](https://img.shields.io/badge/Inteligência_Artificial-FFD700?style=for-the-badge&logo=openai&logoColor=black)](https://github.com/topics/artificial-intelligence) |
-| **[Portifólio - Desafio DIO]([https://github.com/HelenaCard/lab-natty-or-not](https://github.com/HelenaCard/portif-lio.git))** | Portifólio publicado - Breve apresentação sobre mim, habilidades técnicas e ferramentas, formação acadêmica, Projetos destacados, Conecte-se comigo | [!Portifólio](https://img.shields.io/badge/Portifólio-FFD700?style=for-the-badge&logo=openai&logoColor=black)](https://helena-card.github.io/portif-lio/) |
+| **[Portfólio - Desafio DIO](https://github.com/HelenaCard/portif-lio.git)** | Portfólio publicado - Breve apresentação sobre mim, habilidades técnicas e ferramentas, formação acadêmica, projetos destacados, conecte-se comigo | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 
 
 ---
