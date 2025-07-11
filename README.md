@@ -26,9 +26,9 @@
 ## 📚 Formação Acadêmica
 - **Técnica em Eletrotécnica**  
   [CTISM/UFSM](https://www.ufsm.br/unidades-universitarias/ctism/)  
-- **Tecnóloga em ADS (5/5)**  
+- **Tecnóloga em ADS**  
   [UniCV](https://unicv.edu.br/)  
-- **Engenharia Elétrica (10/7)**  
+- **Engenharia Elétrica**  
   [UNINTER](https://www.uninter.com/)  
 
 ---
