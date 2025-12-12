@@ -78,6 +78,13 @@
       <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/HelenaCard/clima-sudeste-game.git"><b>Clima Sudeste Game</b></a><br>
+      <span>Jogo educativo que explora fenômenos climáticos e meteorologia da região Sudeste do Brasil, com mecânicas interativas para aprender sobre padrões climáticos e previsões.</span><br>
+      <img src="https://img.shields.io/badge/Game-00BFFF?style=for-the-badge" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -85,7 +92,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenaCard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenaCard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=00BFFF&[...]"
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenaCard&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=00BFFF&text_color=FFF"/>
 </div>
 
@@ -105,7 +112,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helena-cardoso-9b2b9b200/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helenas.cardoso/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helenascardoso9@gmail.com)
-[![Digital Innovation One](https://img.shields.io/badge/DIO-8A2BE2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4QgJDxMZqgHNKAAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAJUlEQVQ4y2NgGAWjYBSMAloB4/8RDP7//8/AyMj4HwpgYmJiGKkBAJ1ZBbX4S3i5AAAAAElFTkSuQmCC&color=8A2BE2)](https://www.dio.me/users/helenasoarescardoso)
+[![Digital Innovation One](https://img.shields.io/badge/DIO-8A2BE2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAA[])]
 
 </div>
 
