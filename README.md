@@ -89,15 +89,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenaCard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=00BFFF&[...]"
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenaCard&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=00BFFF&text_color=FFF"/>
-</div>
-
----
-
 ## 📚 Formação Acadêmica
 - <b>Técnica em Eletrotécnica</b> | [CTISM/UFSM](https://www.ufsm.br/unidades-universitarias/ctism/)
 - <b>Tecnóloga em Análise e Desenvolvimento de Sistemas</b> | [UniCV](https://unicv.edu.br/)
