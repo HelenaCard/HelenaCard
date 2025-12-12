@@ -92,8 +92,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenaCard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=00BFFF&[...]"
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenaCard&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=00BFFF&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelenaCard&show_icons=true&theme=dracula&hide_border=true&title_color=00BFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenaCard&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=00BFFF&text_color=FFFFFF" />
 </div>
 
 ---
@@ -112,7 +112,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helena-cardoso-9b2b9b200/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/helenas.cardoso/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helenascardoso9@gmail.com)
-[![Digital Innovation One](https://img.shields.io/badge/DIO-8A2BE2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAA[])]
+[![Digital Innovation One](https://img.shields.io/badge/DIO-8A2BE2?style=for-the-badge&logoColor=white)](https://digitalinnovation.one/)
 
 </div>
 
