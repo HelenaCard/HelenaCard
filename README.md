@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/HelenaCard/portif-lio.git"><b>Portfólio Pessoal (Desafio DIO)</b></a><br>
+      <a href="https://helenacard.github.io/Meu_portifolio/"><b>Portfólio Pessoal (Desafio DIO)</b></a><br>
       <span>Uma página web de apresentação pessoal, destacando habilidades, formação e projetos.</span><br>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
