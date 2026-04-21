@@ -78,13 +78,6 @@
       <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/HelenaCard/clima-sudeste-game.git"><b>Clima Sudeste Game</b></a><br>
-      <span>Jogo educativo que explora fenômenos climáticos e meteorologia da região Sudeste do Brasil, com mecânicas interativas para aprender sobre padrões climáticos e previsões.</span><br>
-      <img src="https://img.shields.io/badge/Game-00BFFF?style=for-the-badge" />
-    </td>
-  </tr>
 </table>
 
 ---
