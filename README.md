@@ -16,7 +16,7 @@
 <table>
 <tr>
 <td align="left" width="100%">
-- 🎓 Cursando <b>Análise e Desenvolvimento de Sistemas</b> e <b>Engenharia Elétrica</b>.<br>
+- 🎓 Cursando <b>Análise e Desenvolvimento de Sistemas</b> e <b>Sistemas para Internet</b>.<br>
 - 💡 Apaixonada por tecnologia, análise de dados e automação de processos.<br>
 - 🌍 Natural de Santa Maria, RS, Brasil.<br>
 - ✨ <b>Objetivo</b>: Unir o mundo da engenharia e da tecnologia para criar soluções inovadoras e eficientes.<br>
