@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Helena Cardoso!
-*Estudante de Análise e Desenvolvimento de Sistemas e Engenharia Elétrica*
+*Estudante de Sistemas para Internet*
 
 <div align="center">
   <img src="https://github.com/HelenaCard.png" width="200px" alt="Foto de perfil" style="border-radius: 50%; border: 5px solid #00BFFF; box-shadow: 0 0 15px #00BFFF;">
@@ -16,7 +16,7 @@
 <table>
 <tr>
 <td align="left" width="100%">
-- 🎓 Cursando <b>Análise e Desenvolvimento de Sistemas</b> e <b>Sistemas para Internet</b>.<br>
+- 🎓 Cursando <b>Sistemas para Internet</b>.<br>
 - 💡 Apaixonada por tecnologia, análise de dados e automação de processos.<br>
 - 🌍 Natural de Santa Maria, RS, Brasil.<br>
 - ✨ <b>Objetivo</b>: Unir o mundo da engenharia e da tecnologia para criar soluções inovadoras e eficientes.<br>
